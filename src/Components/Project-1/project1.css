@@ -39,6 +39,7 @@ button {
 }
 
 .hero-content {
+    padding: 45px;
     display: flex;
     flex-direction: column;
     gap: 36px;

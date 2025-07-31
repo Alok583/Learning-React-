@@ -3,7 +3,7 @@ import './project1.css';
 export function Project1  () {
     return (
         <div>
-                <nav className='container'>
+                <nav className='hero container'>
                     <div className="logo">
                         <img src="/images Project-1\brand_logo.png" alt="logo"/>
                     </div>
