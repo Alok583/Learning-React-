@@ -1,0 +1,13 @@
+body {
+    background-color: #1c1c1c;
+}
+.container-fluid {
+    width: 800px;
+    margin-top: 350px;
+    color: aliceblue;
+
+}
+
+button {
+    color: blue;
+}
